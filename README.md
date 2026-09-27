@@ -12,9 +12,9 @@ Press `Ctrl+Shift+S`, select an area and add arrows, frames, captions or sticker
 
 ## Copy text from any picture
 
-Select text on the screen and copy it, in English, Polish, Ukrainian, Chinese, Japanese, Korean and many more languages. It works offline.
+Press `Ctrl+Alt+T`, select text on the screen and copy it, in English, Polish, Ukrainian, Chinese, Japanese, Korean and many more languages. It works offline.
 
-![Text in nine languages recognized in a screenshot, ready to copy](media/text.png)
+![Ctrl+Alt+T, select the text: it is read in nine languages and copied with one click](media/text.gif)
 
 ## Make GIFs
 

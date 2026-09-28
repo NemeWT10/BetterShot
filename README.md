@@ -4,11 +4,23 @@
 
 **[Download BetterShot.exe](https://github.com/NemeWT10/BetterShot/releases/latest/download/BetterShot.exe)** · [All versions](https://github.com/NemeWT10/BetterShot/releases)
 
-![Press Ctrl+Shift+S, select an area, draw an arrow and a caption, press Ctrl+C: the screenshot is copied](media/screenshot.gif)
+![Press Ctrl+Shift+S, select an area, draw an arrow, a caption and a frame, press Ctrl+C: the screenshot is copied](media/screenshot.gif)
 
 ## Draw on your screenshots
 
 Press `Ctrl+Shift+S`, select an area and add arrows, frames, captions or stickers. `Ctrl+C` copies it, ready to paste into Discord, a chat or a document.
+
+## Stickers
+
+Add your own pictures as stickers (say, a map from your game) and draw your plan right on it.
+
+![A game map dragged into Options, then placed on a screenshot of the game, made bigger and marked with the route](media/stickers.gif)
+
+## Pin it on top
+
+Click the pin (`Ctrl+P`) and the screenshot stays on top of every window, like a slide from the lecture while you write. Drag it, resize it with the mouse wheel or make it see-through.
+
+![A diagram from a lecture pinned on the screen stays in sight while an essay is written](media/pin.gif)
 
 ## Copy text from any picture
 
@@ -16,11 +28,17 @@ Press `Ctrl+Alt+T`, select text on the screen and copy it, in English, Polish, U
 
 ![Ctrl+Alt+T, select the text: it is read in nine languages and copied with one click](media/text.gif)
 
+## QR codes
+
+Select a QR code and its link is ready to copy; nothing is opened. Turn it on in Options.
+
+![A QR code on an event page is found in the selection and its link copied](media/qr.gif)
+
 ## Make GIFs
 
-Record part of the screen (`Ctrl+Shift+G`), then trim it, speed it up, add text, colors and effects.
+Record part of the screen (`Ctrl+Shift+G`), then trim it, change the speed, play it back and forth, add a caption and a color effect.
 
-![The GIF editor: a recording with a caption, the timeline and color effects](media/gif.gif)
+![The GIF editor: a game recording trimmed, sped up, with a caption and a comic look, then copied](media/gif.gif)
 
 ## Instant replay
 
@@ -30,9 +48,9 @@ Record part of the screen (`Ctrl+Shift+G`), then trim it, speed it up, add text,
 
 ## Library
 
-Your recent screenshots and GIFs in one place (`Ctrl+Shift+L`). Open one to edit it again.
+Your recent screenshots and GIFs in one place (`Ctrl+Shift+L`). Open one to edit it again, or pin it on top.
 
-![The library with screenshots and GIFs, one GIF playing in the preview](media/library.png)
+![The library: screenshots and GIFs, a GIF playing beside its picture and then shown big](media/library.gif)
 
 ## Make it yours
 

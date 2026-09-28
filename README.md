@@ -28,6 +28,12 @@ Press `Ctrl+Alt+T`, select text on the screen and copy it, in English, Polish, U
 
 ![Ctrl+Alt+T, select the text: it is read in nine languages and copied with one click](media/text.gif)
 
+## Translate
+
+Select text in a game, a menu or any picture and read it in your language, or lay the translation right over the original. It works offline: each language is downloaded only once, when you agree, and stays saved on your disk.
+
+![A Japanese game: the dialog selected, the language downloaded once after a click, then the English translation in the panel and right on the picture](media/translate.gif)
+
 ## QR codes
 
 Select a QR code and its link is ready to copy; nothing is opened. Turn it on in Options.
@@ -68,6 +74,6 @@ BetterShot keeps itself up to date: a new version installs itself the next time 
 
 ## Privacy
 
-Everything stays on your computer. BetterShot only goes online to check for new versions, and you can turn that off in Options.
+Everything stays on your computer. BetterShot only goes online to check for new versions (you can turn that off in Options) and to download a translation language when you ask for one.
 
-<sub>Built with .NET and ONNX Runtime (MIT). Text recognition uses PaddleOCR models (Apache 2.0).</sub>
+<sub>Built with .NET and ONNX Runtime (MIT). Text recognition uses PaddleOCR models (Apache 2.0). Translation uses Mozilla's Firefox Translations models and the Bergamot engine (MPL-2.0), not BetterShot's own; they are downloaded from this repository's [translation packs](https://github.com/NemeWT10/BetterShot/releases/tag/translation-1).</sub>
